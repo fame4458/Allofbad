@@ -29,3 +29,10 @@ button:hover{
 h5{
   color: #419e0b;
 }
+
+img{
+  transition: .5s;
+}
+img:hover{
+  transform: scale(1.05);
+}
